@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Claudio 👋
 - 🔭 Estudante de Sistemas de Informação
-- 🌱Avaliando qual área de estudo quero me aprofundar, mas no momento iniciando estudos sobre Python, HTML5 e CSS3.
+- 🌱 Meu aprofundando em Python, HTML5 e CSS3.
 - 📷✈️🌳🖥️👨‍💻
 - 😄 ele/dele
 
@@ -12,7 +12,7 @@
 ![luizclaudio346 GitHub stats](https://github-readme-stats.vercel.app/api?username=luizclaudio346&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizclaudio346&layout=compact&langs_count=7&theme=dark)](https://github.com/luizclaudio346/github-readme-stats)
 
-## Tecnologias que eu estou estudando atualmente!
+## Tecnologias que eu estou atualmente!
 
 <div style="display: inline-block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
