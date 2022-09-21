@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Luiz Claudio 👋
 - 🔭 Estudante de Sistemas de Informação
-- 🌱 Meu aprofundando em Python, HTML5 e CSS3.
+- 🌱 Me aprofundando em Python, HTML5 e CSS3.
 - 📷✈️🌳🖥️👨‍💻
 - 😄 ele/dele
 
