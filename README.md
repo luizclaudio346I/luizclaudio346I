@@ -7,7 +7,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Https://instagram.com/luizclaudio346?igshid=YmMyMTA2M2Y)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizclaudio346/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2022210220003@iesp.edu.br.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfilho2017@gmail.com)
 
 ![luizclaudio346 GitHub stats](https://github-readme-stats.vercel.app/api?username=luizclaudio346&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizclaudio346&layout=compact&langs_count=7&theme=dark)](https://github.com/luizclaudio346/github-readme-stats)
